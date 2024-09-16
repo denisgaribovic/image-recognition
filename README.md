@@ -8,7 +8,7 @@ In numerous industries, paper forms remain a common method for data collection, 
 
 ## Project Overview
 
-This project develops a Handwritten Digit Recognition system using Support Vector Machines (SVM) and the digits dataset from Scikit-Learn in Python. The aim is to create a model that can accurately identify handwritten digits from 0 to 9.
+This project showcases a Handwritten Digit Recognition system using Support Vector Machines (SVM) and the digits dataset from Scikit-Learn in Python. The aim is to create a model that can accurately identify handwritten digits from 0 to 9.
 
 ## Visual Examples
 
